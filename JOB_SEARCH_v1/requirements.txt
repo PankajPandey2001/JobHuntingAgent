@@ -1,0 +1,8 @@
+python-jobspy
+pandas 
+scikit-learn 
+groq 
+pdfplumber 
+python-docx
+python-dotenv
+sentence-transformers
